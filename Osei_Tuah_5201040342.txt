@@ -1,0 +1,33 @@
+Solution
+
+// Question 1
+ A software process model is a digital or hand-written model that details the software development process or A software process model is an abstraction of the software development process.
+
+// Question 2
+ i. First, the waterfall methodology is sequential and linear, whereas the Agile methodology is incremental and iterative.
+    ii. Scaling up projects, that is, further building them via additional features and versions, is limited in agile, whereas it is easily done in agile.
+    iii. Customer involvement is low in a waterfall, whereas it’s high in agile.
+    iv. All work that is carried out is documented. However, in agile, a lot of emphasis is not laid on the documentation.
+     v. Final testing occurs in the end when the project is completed in a waterfall. In agile, continuous testing happens at every stage.
+      vi. In the waterfall level of flexibility, is minimum in the agile level of flexibility is high.
+Agile Vs. Waterfall: Pros & Cons. Agile projects are typically cheaper and can be delivered quickly. They offer greater flexibility, but also produce less predictable results due to the uncertainty and unclear nature of many of the project characteristics. Waterfall projects are typically more expensive and take longer to deliver. They are also less flexible.
+
+// Question 3
+ The rational unified process (RUP) is one software structure, and it can improve the flexibility and reliability of code by requiring it to follow specific building stages. The software design and development industry uses a variety of frameworks to create software, often customized for specific company needs. 
+
+// Differences between RUP and other software process
+One difference is that RUP is a framework for organizations and teams, while the Agile method is more intended for a product team with strict/clear guidelines. RUP uses its predefined phases more specifically and these phases show what you do in the different phases.
+
+// Phases and activities of RUP
+Phases are inception, elaboration, construction, transition, production and activities in RUP are modelling, analysis and design, implementation, testing and application.
+
+// Benefits of Rup
+Offering thorough documentation
+Enhancing risk management practices
+Determining working elements early on in the project
+Reducing total project time
+
+// drawbacks of RUP
+Complexity of process
+Cost and time
+Challenge of using it for projects with multiple development streams
